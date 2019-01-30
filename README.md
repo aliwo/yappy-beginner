@@ -16,4 +16,5 @@
 * 모임 장소 : <br>
 * 모임 시각 : <br>
 * 지각비 : <br>
+* 강의록 : https://aliwo.github.io/swblog/series/principles_of_python/intro/ <br>
 
