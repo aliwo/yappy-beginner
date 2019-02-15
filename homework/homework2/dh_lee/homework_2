@@ -1,0 +1,30 @@
+# 20190210
+# TODO 1 : (=)의 의미
+# 비슷한 점 : 등호 양 변의 값이 서로 일치한다는 의미의 기호이다. 또는, 양변에 같은 연산을 해도 등호가 성립한다는 원칙을 나타낸다.
+# 다른 점 : 수학의 (=)는 주로 특정 연산을 위해 사용. 변수 선언의 (=)는 앞으로 필요한 연산을 위해 미지수(x,i,등등)에 이름을 정의해 주는 용도.
+
+# TODO 2 : 숫자 25를 출력하는 방법
+# 1) my_number = 5
+     print(my_number)
+
+# 2) my_number = 5*5
+     print(my_number)
+
+# 3) my_number = 20+5
+     print(my_number)
+
+# 4) my_number = 20
+    actual_number = 25 if my_number == 20 else 100
+    print(actual_number)
+
+# 5) my_number = 10
+    actual_number = 25 if my_number == 20 else 25
+    print(actual_number)
+
+#  TODO 3: 자판기 ADVANCED
+#  자판기의2 음료수 목록
+# 1) -1을 입력하면 '핫식스'가 출력됨.
+# 2) 7을 입력하면 Indexerror: list index out of range 표시.
+# 궁금한 점, run 뒤 코드가 옳으면 "process finished with exit code 0"으로 끝나고
+# 오류가 나면 "~ with exit code 1"으로 끝남. 왜?
+
